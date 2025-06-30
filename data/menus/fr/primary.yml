@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -15,13 +8,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: Formations
   target: "/formations/"
   kind: page
@@ -29,4 +15,14 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
+- title: Métiers
+  target: "/formations/metiers/"
+  kind: url
+  new_tab: false
+  children: []
+- title: Compétences
+  target: "/formations/competences/"
+  kind: url
+  new_tab: false
+  children: []
 
