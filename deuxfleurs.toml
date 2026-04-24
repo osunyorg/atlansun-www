@@ -15,30 +15,30 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/formations/2024-nom-de-la-formation/index.html"
+from = "/formations/2024-nom-de-la-formation/"
 to = "/formations/2025-master-mention-economie-de-l-environnement-de-l-energie-et-des-transports/"
 
 [[redirects]]
-from = "/formations/2025-master-mention-economie-de-l-environnement-de-l-energie-et-des-transports-1/index.html"
+from = "/formations/2025-master-mention-economie-de-l-environnement-de-l-energie-et-des-transports-1/"
 to = "/formations/2025-formation-installateur/"
 
 [[redirects]]
-from = "/formations/2025-nom-de-la-formation/index.html"
+from = "/formations/2025-nom-de-la-formation/"
 to = "/formations/2025-master-mention-economie-de-l-environnement-de-l-energie-et-des-transports/"
 
 [[redirects]]
-from = "/projets/index.html"
+from = "/projets/"
 to = "/formations/"
 
 [[redirects]]
-from = "/formations/metiers/installateurice-photovoltaique/index.html"
+from = "/formations/metiers/installateurice-photovoltaique/"
 to = "/formations/metiers/installateur-installatrice-photovoltaique/"
 
 [[redirects]]
-from = "/formations/competences/competence-1/index.html"
+from = "/formations/competences/competence-1/"
 to = "/formations/competences/ingenierie-electrique/"
 
 [[redirects]]
-from = "/formations/ingenieur-ingenieure-en-energie-solaire/index.html"
+from = "/formations/ingenieur-ingenieure-en-energie-solaire/"
 to = "/formations/metiers/ingenieur-ingenieure-en-energie-solaire/"
 
